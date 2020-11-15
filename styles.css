@@ -1,0 +1,83 @@
+nav {
+  background-color: #8ECAE6;
+}
+
+body {
+  text-align: center;
+}
+
+main{
+  margin: 70px 80px;
+}
+
+footer a {
+  color: #FB8500;
+}
+
+footer a:hover {
+  color: #FFB703;
+}
+
+h2 {
+  padding: 30px 30px;
+}
+
+.navbar-brand {
+  padding: 5px 70px 5px 5px;
+}
+
+.nav-item {
+  padding: 0 40px;
+}
+
+.jumbotron {
+  background-color: #FFB703;
+}
+
+.jumbo-container {
+  text-align: left;
+}
+
+.jumbo-img {
+  float: right;
+  margin: auto;
+  padding-right: 50px;
+}
+
+.blue-text {
+  color: #8ECAE6;
+}
+
+.darker-blue-text {
+  color: #219EBC;
+}
+
+.text-section {
+  padding: 40px 0 60px;
+}
+
+.goal {
+  padding: 40px 50px;
+  margin: auto;
+}
+
+.black-text {
+  color: #000;
+}
+
+#the-problem, #causes, #solutions {
+  padding: 40px 0 60px;
+  text-align: center;
+}
+
+.causes-section  {
+  margin-bottom: 100px;
+}
+
+.carousel-inner p {
+  padding: 20px 100px;
+}
+
+.featurette {
+  padding: 40px 0 60px;
+}
